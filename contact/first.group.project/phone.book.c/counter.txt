@@ -1,0 +1,7 @@
+Ibrohim,Beruniy,ohimov@mail.com,2222
+Max,Tinchlik,maximov.@gmail.uz,8888
+Said,Chorsu,karimov@mail.ru,9999
+Lol,USA,usalol@mail.net,4444
+Russ,Canada,russ.hendricks.gmail.com,1111
+Duke,Chicago,duke.vayde.mail.co,3333
+Erkin,Toshkent,boshqa@mail.uz,1234
