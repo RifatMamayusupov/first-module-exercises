@@ -24,7 +24,7 @@ void Kredit_tolov();
 void exit();
 void menu();
 
-struct paynet satr[100000];
+struct paynet satr[100];
 int num;
 FILE *filepointer;
 // FILE *komunal_file;
@@ -40,10 +40,10 @@ int main()
     printf("\n\t\t\t\t\t\t\t\t\t\tAssalomu alaykum !\t\n");
     printf("\n\t\t\t\t\t\t\t\t\tXush kelibsiz bizning Paynet dasturimizga...!\t\n\n");
 
-    printf("\t================\t\t\t=================\t\t\t==================\t\t\t================\t\t\t===============\n");
-    printf("\t=  Tel_number  =\t\t\t= Kamunal_tolov =\t\t\t= Internet_tolov =\t\t\t= Kredit_tolov =\t\t\t=  For_finish =\n");
-    printf("\t=  click: 1.   =\t\t\t=   click: 2.   =\t\t\t=    click: 3.   =\t\t\t=   click: 4.  =\t\t\t=   click: 5. =\n");
-    printf("\t================\t\t\t=================\t\t\t==================\t\t\t================\t\t\t===============\n");
+    printf("\t================\t\t=================\t\t==================\t\t================\t\t===============\n");
+    printf("\t=  Tel_number  =\t\t= Kamunal_tolov =\t\t= Internet_tolov =\t\t= Kredit_tolov =\t\t=  For_finish =\n");
+    printf("\t=  click: 1.   =\t\t=   click: 2.   =\t\t=    click: 3.   =\t\t=   click: 4.  =\t\t=   click: 5. =\n");
+    printf("\t================\t\t=================\t\t==================\t\t================\t\t===============\n");
 
     printf("\n\t\t\tIltimos ko'rsatilgan variantlarni tanlang va o'z to'lovingizni amalga oshiring.\n\n");
 
